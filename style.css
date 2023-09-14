@@ -28,8 +28,13 @@ nav ul li a {
 
 /*Estilo de conteúdo principal*/
 main {
+    background-position-x: 240;
+    background-position-y: 40;
+    width: 1440px;
+    height: 716px;
     padding: 20px;
     background-color: #3498db 40%;
+
 }
 
 section {
