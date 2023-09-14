@@ -6,7 +6,7 @@ body, h1, h2, p, ul, li {
 /*Estilo de cabeçalho */
 
 header {
-    background-color: #3498db;
+    background-color: rgba(52, 152, 219, 0.30)
     color: #fff;
     text-align: center;
     padding: 20px 0;
@@ -28,17 +28,52 @@ nav ul li a {
     text-decoration: none;
 }
 
+.titulocabe{
+    width: 437px;
+    height: 80px;
+    flex-shrink: 0;
+    color: #026483;
+    font-family: Island Moments;
+    font-size: 90px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
 
 .itemum{
-    text-align: right;
+    color: #026483;
+    font-family: Istok Web;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
 }
 
 .itemdois{
-    text-align: right;
+    color: #026483;
+    font-family: Istok Web;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
 }
 
 .itemtres{
-    text-align: right;
+    color: #026483;
+    font-family: Istok Web;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.itemquatro{
+    color: #026483;
+    font-family: Istok Web;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
 }
 
 
@@ -48,8 +83,9 @@ main {
     background-position-y: 40;
     width: 1440px;
     height: 716px;
+    flex-shrink: 0;
     padding: 20px;
-    background-color: #3498db 40%;
+    background-color:  rgba(52, 152, 219, 0.30);
 
 }
 
