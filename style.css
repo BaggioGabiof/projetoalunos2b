@@ -3,6 +3,8 @@ body, h1, h2, p, ul, li {
     padding: 0;
 }
 
+/*Estilo de cabeçalho */
+
 header {
     background-color: #3498db;
     color: #fff;
@@ -22,7 +24,28 @@ nav ul li a {
     color: #fff;
     text-decoration: none;
 }
+/*Estilos classes cabeçalho*/
 
+.titulocabe{
+    text-decoration-color: #333;
+
+}
+.itemum{
+    text-align: right;
+    margin: 40px;
+    
+}
+.itemdois{
+
+}
+.itemtres{
+
+}
+.itemquatro{
+
+}
+
+/*Estilo de conteúdo principal*/
 main {
     padding: 20px;
 }
@@ -36,12 +59,16 @@ h2 {
     margin-bottom: 10px;
 }
 
+/*Estilo de rodapé */
+
 footer {
     background-color: #333;
     color: #fff;
     text-align: center;
     padding: 10px 0;
 }
+
+/*Estilo dos links no rodapé */
 
 footer a {
     color: #fff;
