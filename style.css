@@ -26,6 +26,20 @@ nav ul li a {
 }
 
 
+.itemum{
+    text-align: right;
+    text-decoration: solid;
+}
+
+.itemdois{
+    text-align: right;
+}
+
+.itemtres{
+    text-align: right;
+}
+
+
 /*Estilo de conteúdo principal*/
 main {
     background-position-x: 240;
