@@ -24,30 +24,12 @@ nav ul li a {
     color: #fff;
     text-decoration: none;
 }
-/*Estilos classes cabeçalho*/
 
-.titulocabe{
-    text-decoration-color: #333;
-
-}
-.itemum{
-    text-align: right;
-    margin: 40px;
-    
-}
-.itemdois{
-
-}
-.itemtres{
-
-}
-.itemquatro{
-
-}
 
 /*Estilo de conteúdo principal*/
 main {
     padding: 20px;
+    background-color: #3498db 40%;
 }
 
 section {
