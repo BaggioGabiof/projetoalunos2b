@@ -10,6 +10,9 @@ header {
     color: #fff;
     text-align: center;
     padding: 20px 0;
+    width: 1440px;
+    height: 716px;  
+    flex-shrink: 0;
 }
 
 header h1 {
